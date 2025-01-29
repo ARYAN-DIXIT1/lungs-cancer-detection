@@ -80,3 +80,6 @@ DVC
 
 ## All Model Description and accuracy
 ![Screenshot 2024-08-02 092222](https://github.com/user-attachments/assets/8af3275f-ebca-4ea5-9399-b23ead23c76d)
+
+## Simple basic UI Components will look like that
+![image](https://github.com/user-attachments/assets/e95c0d25-2bcf-4368-99e0-4adbb8e29c39)
