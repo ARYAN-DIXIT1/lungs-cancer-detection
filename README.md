@@ -77,3 +77,6 @@ DVC
     AWS_REGION = us-east-1
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
     ECR_REPOSITORY_NAME = simple-app
+
+## All Model Description and accuracy
+![Screenshot 2024-08-02 092222](https://github.com/user-attachments/assets/8af3275f-ebca-4ea5-9399-b23ead23c76d)
